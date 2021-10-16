@@ -3,3 +3,4 @@ Biar ganti aja
 - belajar laravel dengan implementasi git & github
 - nyelesaiin semester 5 dengan lancar
 - nyari tempat KP
+- lanjut sem 6
