@@ -1,3 +1,4 @@
 Latihan Github
 - bisa nonton playlist git github sampe selese
 - belajar laravel dengan implementasi git & github
+- nyelesaiin semester 5 dengan lancar
